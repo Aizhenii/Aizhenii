@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Sarah! 👋
 
 <!--
 **Aizhenii/Aizhenii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a junior studying computer science at Cal Poly Pomona. I enjoy problem solving and creating things! I'm interested in fields such as human computer interaction/human centered computing, game development, and full stack development. I design and build user-facing applications.
+
+Feel free to check out my projects here!
+
+### 📫 How to reach me: 
+mssarahto@gmail.com
