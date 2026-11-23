@@ -1,3 +1,6 @@
+<img width="2025" height="340" alt="Before Spring Ends redraw" src="https://github.com/user-attachments/assets/027c7204-ea04-4a36-9313-08a7f4eda440" />
+
+
 ## Hi, I'm Sarah! 👋
 
 <!--
@@ -15,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a junior studying computer science at Cal Poly Pomona. I enjoy problem solving and creating things! I'm interested in fields such as human computer interaction/human centered computing, game development, and full stack development. I design and build user-facing applications.
+I'm a junior studying computer science at Cal Poly Pomona. I enjoy problem solving and creating things! I'm interested in fields such as human computer interaction/human centered computing, game development, and full stack development. I design and build user-facing applications. I also like to draw in my free time.
 
 Feel free to check out my projects here!
 
